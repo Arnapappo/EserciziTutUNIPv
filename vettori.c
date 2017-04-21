@@ -55,7 +55,7 @@ int main() {
     printf("%d\n", mass);
     
     printf("[MEDIA]\n");
-    printf("%f\n", ((float)somma/n));
+    printf("%.1f\n", ((float)somma/n));
     
     //FREQUENZA DEI VOTI
     printf("[FREQUENZE]\n");
